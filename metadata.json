@@ -1,0 +1,8 @@
+{
+  "name": "Remix FutsalTactics Pro - Mesa Tática e Ideias de Jogadas",
+  "description": "Prancheta tática interativa de futsal com animação de jogadas, biblioteca de sistemas táticos, ferramentas de desenho e assistente de táticas com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
